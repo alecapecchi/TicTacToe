@@ -1,7 +1,7 @@
 # Tic Tac Toe
 A simple Tic Tac Toe game with a "spooky" Halloween theme. You can play it [here](https://alecapecchi.github.io/tictactoe/game.html)!
----
-##MODES
+
+## MODES
 The game supports 4 different game modes:
 * **IMPOSSIBLE**: An AI agent performs a [minimax search](https://en.wikipedia.org/wiki/Minimax), with alpha beta optimization,
 reaching the end of the game every time. 
@@ -19,9 +19,9 @@ according to a weight: center (weight=0.3), corners (0.2), middle (0.1)
 * **EASY**: The AI chooses a random move out of all the available ones
 * **PlayerVSPlayer**
 
-##SCREENSHOT
+## SCREENSHOT
 
-##LIBRARIES and MORE
+## LIBRARIES and MORE
 The project is written in Javascript, HTML and JQuery, and makes use of:
 * [Bootstrap](https://getbootstrap.com/)
 * [SweetAlert](https://sweetalert.js.org/)
