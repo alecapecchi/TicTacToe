@@ -1,6 +1,6 @@
 # Tic Tac Toe
 A simple Tic Tac Toe game with a "spooky" Halloween theme. You can play it [here](https://alecapecchi.github.io/tictactoe/game.html)!
-
+---
 ##MODES
 The game supports 4 different game modes:
 * **IMPOSSIBLE**: An AI agent performs a [minimax search](https://en.wikipedia.org/wiki/Minimax), with alpha beta optimization,
