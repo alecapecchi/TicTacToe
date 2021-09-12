@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic Tac Toe
 A simple Tic Tac Toe game with a "spooky" Halloween theme.
 
 ##MODES
